@@ -1,0 +1,20 @@
+.main-container-adminmenu{
+    position: fixed;
+    height: 100vh;
+    width:16%;
+    margin-top: 10vh;
+}
+.list-group-item{
+    padding: 10%;
+    cursor: pointer;
+    color: inherit;
+    text-decoration: inherit;
+    
+}
+@media only screen and (max-width: 768px) {
+    .main-container-adminmenu{
+       display: none;
+        
+    }
+   
+} 

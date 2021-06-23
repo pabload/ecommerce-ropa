@@ -1,0 +1,6 @@
+.main-container-bottomnav{
+    overflow: hidden;
+    bottom: 0;
+    width: 100vw;
+    height: 10vh;
+}

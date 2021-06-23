@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.navbar{
+    margin-bottom: 30vh;
+}
+.title{
+    font-family: 'Anton', sans-serif;
+}
+.logo{
+    width: 10%;
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .logo{
+        width: 20%;
+        height: 20%;
+        filter: invert(100%);
+        -webkit-filter: invert(100%);
+    }
+}
+
+
+

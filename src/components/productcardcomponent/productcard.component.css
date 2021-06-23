@@ -1,0 +1,8 @@
+.card-img-top{
+    height: 300px;
+    width: 300px;
+}
+.card-product{
+    overflow: hidden;
+    height: 95%;
+}
